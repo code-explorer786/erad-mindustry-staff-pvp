@@ -1,5 +1,16 @@
-# Mindustry Java Mod Template
-A Java Mindustry mod template that works on Android and PC. The Kotlin version of this mod can be seen [here](https://github.com/Anuken/MindustryKotlinModTemplate).
+# StaffPvP
+
+Welcome to Erad's den.
+
+## Architecture
+
+> I'll make sure this is modular enough that it can be integrated into Element sometime in the future.
+\- code-explorer786
+
+`Session`: PvP session. May be dormant.
+`Map`: Customized map system.
+`PlayerUI`: Per-player user interface consisting of dialogs and commands.
+`StaffPvP`: Wiring.
 
 ## Building for Desktop Testing
 

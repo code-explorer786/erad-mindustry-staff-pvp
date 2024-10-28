@@ -4,7 +4,7 @@ name: "erad-mindustry-staff-pvp"
 
 author: "code-explorer786"
 
-main: "staffpvp.StaffPVP"
+main: "staffpvp.StaffPvP"
 
 description: "The server where griefers go."
 
