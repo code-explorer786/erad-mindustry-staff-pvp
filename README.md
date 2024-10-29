@@ -2,14 +2,24 @@
 
 Welcome to Erad's den.
 
+This is (to be) part of the **Eradication Mindustry** server group in the game [Mindustry](https://github.com/Anuken/Mindustry), and it's still very much WIP.
+
+- [X] basic UI functionality
+- [ ] basic mechanics
+- [ ] mapping (I can't do mapping)
+- [ ] integrate with Element v4
+
 ## Architecture
 
 > I'll make sure this is modular enough that it can be integrated into Element sometime in the future.
 \- code-explorer786
 
 `Session`: PvP session. May be dormant.
+
 `Map`: Customized map system.
+
 `PlayerUI`: Per-player user interface consisting of dialogs and commands.
+
 `StaffPvP`: Wiring.
 
 ## Building for Desktop Testing

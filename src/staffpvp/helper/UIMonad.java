@@ -5,11 +5,11 @@ import arc.struct.*;
 import arc.func.*;
 import java.lang.*;
 
+//TODO: may separate this into a library in the future? consider rewriting to Scala :P
 /**
- * Church-encoded free monad of basic UI
- * Please abuse java's IO in the non-pure parts only
- * Thanks.
- * I want my monads back.
+ * Church-encoded free monad of basic UI. <br>
+ * Please abuse java's IO in the non-pure parts only. <br>
+ * Thanks. <br>
  */
 public class UIMonad<A> {
     public Inner<A> inner;
